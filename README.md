@@ -41,15 +41,15 @@
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
-├──SungKiHwan
-│      ├──java-baseball-precourse
-│      ├──java-racingcar-precourse
-│      └──java-subway-path-precourse
 ├──ParkBoSeon
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
 ├──SungKiHwan
+│      ├──java-baseball-precourse
+│      ├──java-racingcar-precourse
+│      └──java-subway-path-precourse
+├──EomHyeJin
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
