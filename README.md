@@ -26,7 +26,7 @@
 
 ## ⚙️ CONVENTION
 
-[🌥 PR하는 방법?]
+[🌥 PR하는 방법?](https://github.com/java-jweo/java_side_project/issues/1)
 
 **Pull Request**
 
@@ -41,15 +41,15 @@
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
-├──SungKiHwan
-│      ├──java-baseball-precourse
-│      ├──java-racingcar-precourse
-│      └──java-subway-path-precourse
 ├──ParkBoSeon
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
 ├──SungKiHwan
+│      ├──java-baseball-precourse
+│      ├──java-racingcar-precourse
+│      └──java-subway-path-precourse
+├──EomHyeJin
 │      ├──java-baseball-precourse
 │      ├──java-racingcar-precourse
 │      └──java-subway-path-precourse
