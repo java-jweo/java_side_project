@@ -22,7 +22,7 @@
 | :----: | :------------------: | :--------------------------------------: |
 | 10월 27일 <br> 21:30 | [ ⚾ 숫자 야구 게임](https://github.com/woowacourse/java-baseball-precourse) | `박정윤`, `박보선`, `성기환`, `엄혜진` |
 |  | [ 🚗 자동차 경주 게임 ](https://github.com/woowacourse/java-racingcar-precourse) | `박정윤`, `박보선`, `성기환`, `엄혜진` |
-|  | [ 🚅 지하철 노선도 경로 조회 ](https://github.com/woowacourse/java-subway-path-precourse) | `박정윤`, `박보선`, `성기환`, `엄혜진` |
+|  | [ 🚅 지하철 노선도 ](https://github.com/woowacourse/java-subway-map-precourse) | `박정윤`, `박보선`, `성기환`, `엄혜진` |
 
 ## ⚙️ CONVENTION
 
